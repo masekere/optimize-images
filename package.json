@@ -1,0 +1,11 @@
+{
+  "name": "optimize-images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:masekere/optimize-images.git",
+  "author": "masekere <masekeregift@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
